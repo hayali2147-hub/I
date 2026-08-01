@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌹 Hi, I'm Ibrahim
+# 🌹 Hi, I'm ARMANÇ
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Creating+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Profile" />
 
