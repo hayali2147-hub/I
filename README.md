@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌹 Hi, I'm ARMANÇ
+#  Hi, I'm ARMANÇ
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Creating+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Profile" />
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🌹 Passionate about creating beautiful websites.
+  Passionate about creating beautiful websites.
 
 💻 Learning and building with:
 
@@ -23,7 +23,7 @@
 
 ## 🚀 Current Projects
 
-🌹 Rose Animation
+  
 
 ✨ Modern Web UI
 
@@ -51,6 +51,6 @@
 
 <div align="center">
 
-### 🌹 Every line of code blooms like a rose.
+###  Every line of code blooms like a rose.
 
 </div>
